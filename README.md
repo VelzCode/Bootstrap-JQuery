@@ -1,5 +1,5 @@
-[Repository](https://github.com/VelzCode/Week3.Bootstrap-JQuery)<br>
-[Live Page](https://velzcode.github.io/Week3.Bootstrap-JQuery/)
+[Repository](https://github.com/VelzCode/Bootstrap-JQuery)<br>
+[Live Page](https://velzcode.github.io/Bootstrap-JQuery/)
 
 # Week3.Bootstrap-JQuery — Athena Systems
 
