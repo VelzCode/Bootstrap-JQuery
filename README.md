@@ -1,7 +1,7 @@
 [Repository](https://github.com/VelzCode/Week3.Bootstrap-JQuery)<br>
 [Live Page](https://velzcode.github.io/Week3.Bootstrap-JQuery/)
 
-# Week3.Bootstrap-JQuery — Athena Systems
+# Bootstrap-JQuery — Athena Systems
 
 A website created for week three of my coding bootcamp, exploring Bootstrap components and jQuery UI. The page combines a dark theme, red borders and glowing headings with a tabbed information panel, card blocks and a contact form layout.
 
